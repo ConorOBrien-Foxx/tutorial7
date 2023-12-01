@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tutorial7"
+  site-url: "https://ConorOBrien-Foxx.github.io/tutorial7"
+  description: "tutorial 7"
+  repo-branch: main
+  repo-url: "https://github.com/ConorOBrien-Foxx/tutorial7"
